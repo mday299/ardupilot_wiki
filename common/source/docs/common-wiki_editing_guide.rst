@@ -45,7 +45,7 @@ For more information see the Github Help topic:
 Making a big edit
 =================
 
-If make a *significant* edit of an existing page (or create a new one) then it is best to 
+If making a *significant* edit of an existing page (or create a new one) then it is best to 
 verify changes before submitting your Github pull request. Typically you will need to work 
 on your local computer rather than directly on Git, build and test your changes, and then submit
 a pull request to submit your changes.
